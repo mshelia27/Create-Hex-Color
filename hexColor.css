@@ -7,3 +7,15 @@ body{
 .container{
     text-align: center;
 }
+.hexColor{
+    text-transform: capitalize;
+}
+.hex{
+    font-size: 3rem;
+}
+
+.hexColorBtn{
+    color: #f15025;
+    border: 3px solid #f15025;
+    cursor: pointer;
+}
