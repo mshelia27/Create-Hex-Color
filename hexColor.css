@@ -25,3 +25,6 @@ body{
     outline: none;
     text-transform: capitalize;
 }
+.hexColorBtn:hover{
+    background-color:black;
+}
